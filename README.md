@@ -11,6 +11,7 @@ Execute a aplicação, aguarde até o termino da automação e após isso confir
 ## FAQ
 
 **P:Qual a forma de arquitetura usada?**
+
 R: O projeto segue uma arquitetura baseada em DDD (Domain-Driven Design), com as seguintes camadas:
 
 Camada de Apresentação: Contém a classe Program responsável pela inicialização e execução da aplicação.
